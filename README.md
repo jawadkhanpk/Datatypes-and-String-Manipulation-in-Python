@@ -5,4 +5,5 @@
 - Operations
 - Type Conversion
 - F-String
+- Tuples
 - Some Coding Exercises
